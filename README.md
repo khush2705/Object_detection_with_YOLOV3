@@ -35,9 +35,6 @@ pip install opencv-contrib-python==4.5.3.56
 pip3 install opencv-contrib-python==4.5.3.56
 
 ```
-### Clone this repo
-
-`git clone https://github.com/Asadullah-Dal17/yolov4-opencv-python`
 
 Guess what you are done that was not hard, isn't it.😉
 
